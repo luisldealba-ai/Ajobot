@@ -1,4 +1,4 @@
-# ajomex: Carro omnidireccional de 4 ruedas
+# Ajobot
 
 Este repositorio contiene el diseño mecánico y los archivos de manufactura para el chasis de un robot móvil (Omni-wheel Rover) inspirado en la morfología del **Ajolote de Montaña (*Ambystoma altamirani*)**.
 
