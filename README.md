@@ -11,7 +11,8 @@ El diseño final es el resultado de un proceso de abstracción geométrica:
 3.  **Modelo Final:** Chasis estructural de dos niveles conectado por columnas rígidas, optimizando el espacio para motores, baterías y controladores.
 
 ## Especificaciones Técnicas
-* [**Software de Modelado:**](C:\Users\luisl\Downloads)
+[Software de Modelado:](C:\Users\luisl\Downloads)
+
 * **Material:** MDF de 3mm (Grosor verificado de 0.3cm en modelo), Acrílico Claro de 3mm.
 * **Estructura:** Doble placa (Base y Top) con soportes verticales.
 * **Manufactura:** Preparado para corte láser mediante archivos vectoriales (DXF/SVG). 
