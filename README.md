@@ -11,21 +11,9 @@ El diseño final es el resultado de un proceso de abstracción geométrica:
 3.  **Modelo Final:** Chasis estructural de dos niveles conectado por columnas rígidas, optimizando el espacio para motores, baterías y controladores.
 
 ## Especificaciones Técnicas
-* **Software de Modelado:** Blender 4.0.
-* **Material:** MDF de 3mm (Grosor verificado de 0.3cm en modelo).
+* **Software de Modelado:** Fusion 360.
+* **Material:** MDF de 3mm (Grosor verificado de 0.3cm en modelo), Acrílico Claro de 3mm.
 * **Estructura:** Doble placa (Base y Top) con soportes verticales.
-* **Manufactura:** Preparado para corte láser mediante archivos vectoriales (DXF/SVG). (Aun no esta Configurado)
+* **Manufactura:** Preparado para corte láser mediante archivos vectoriales (DXF/SVG). 
 * **Precisión:** Escala real aplicada (1:1) para asegurar la compatibilidad con componentes electrónicos estándar.
 
-##  Metodología y Atajos Clave (Blender)
-Para la realización de este chasis se emplearon técnicas esenciales de modelado de precisión:
-- `N`: Panel de propiedades para asegurar el grosor exacto de **3mm** en el eje Z.
-- `Ctrl + A`: Aplicación de escala para garantizar medidas reales en la exportación.
-- `Shift + A`: Creación de primitivas para orificios de tornillería y ranuras de ventilación.
-- `G / S / R + Ejes (X, Y, Z)`: Manipulación precisa de los componentes en el espacio 3D.
-- `Herramienta de Medir`: Verificación visual de distancias entre barrenos.
-
-##  Estructura del Repositorio
-* `/blender`: Archivo fuente `.blend` (omni_4.blend).
-* `/manufactura`: Planos 2D exportados para corte láser.
-* `/diseño`: Bocetos iniciales y capturas del avance del modelo.
