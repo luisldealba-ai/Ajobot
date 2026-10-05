@@ -3,7 +3,7 @@
 Este repositorio contiene el diseño mecánico y los archivos de manufactura para el chasis de un robot móvil (Omni-wheel Rover) inspirado en la morfología del **Ajolote de Montaña (*Ambystoma altamirani*)**.
 
 <p align="center">
-  <img src="Mecanica/Documento/ajobot.jpeg" width="600">
+  <img src="Mecanica/Documento/ajobot.jpeg" width="400">
 </p>
 
 Este proyecto documenta el proceso de diseño desde el concepto inicial en papel hasta el modelo 3D final  para cuando se mande a corte láser.
